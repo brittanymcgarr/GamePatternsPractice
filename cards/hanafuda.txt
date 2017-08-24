@@ -1,0 +1,12 @@
+January,20,5,1,1
+February,10,5,1,1
+March,10,5,1,1
+April,20,1,1,1
+May,10,5,1,1
+June,10,1,1,1
+July,10,5,1,1
+August,10,5,1,1
+September,10,5,1,1
+October,20,5,1,1
+November,20,5,1,1
+December,20,1,1,1
